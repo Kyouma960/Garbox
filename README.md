@@ -1,12 +1,5 @@
-GARBOX
 
-Created a robot that can automatically avoid obstacles & pick up trash. ( C++ | Python | Tensorflow ) Robot (04/2022)
-
-https://github.com/user-attachments/assets/99eee27e-7cb8-4f68-a54a-e7d3803c5bb1
-
-
-
-# Garbage Collector Robot
+# GARBOX
 
 ## Overview
 This repository contains the code and documentation for a Garbage Collector Robot that uses **Raspberry Pi**, **TensorFlow** for real-time object detection, and **MicroPython** to control servos and motors. The robot is capable of detecting trash, picking it up using a robotic arm, and placing it into a bin autonomously.
@@ -115,6 +108,9 @@ garbage-collector-robot/
 3. **Movement**: The robot moves towards the trash using DC motors and adjusts its direction based on camera feedback.
 4. **Pick-Up Mechanism**: The robotic arm (controlled by servos) picks up the trash.
 5. **Trash Disposal**: The robot moves towards the bin and deposits the trash.
+
+
+https://github.com/user-attachments/assets/99eee27e-7cb8-4f68-a54a-e7d3803c5bb1
 
 ## Customization
 
