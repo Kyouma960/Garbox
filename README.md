@@ -5,9 +5,7 @@ Created a robot that can automatically avoid obstacles & pick up trash. ( C++ | 
 https://github.com/user-attachments/assets/99eee27e-7cb8-4f68-a54a-e7d3803c5bb1
 
 
-Here's a sample `README.md` for a garbage collector robot that uses Raspberry Pi, its camera, MicroPython, TensorFlow for object detection, and real-time tracking with servos and motors:
 
-```markdown
 # Garbage Collector Robot
 
 ## Overview
@@ -141,6 +139,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-```
-
-This `README.md` includes an overview, setup instructions, and file structure to help users understand and contribute to the project. Let me know if you'd like to include or modify any details.
