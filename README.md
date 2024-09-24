@@ -1,6 +1,29 @@
 
 # GARBOX
 
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Components](#components)
+- [Requirements](#requirements)
+  - [Hardware](#hardware)
+  - [Software](#software)
+- [Setup](#setup)
+  - [Step 1: Install TensorFlow and OpenCV](#step-1-install-tensorflow-and-opencv)
+  - [Step 2: Install MicroPython](#step-2-install-micropython)
+  - [Step 3: Clone the Repository](#step-3-clone-the-repository)
+  - [Step 4: Connect Hardware](#step-4-connect-hardware)
+  - [Step 5: Running the Code](#step-5-running-the-code)
+- [File Structure](#file-structure)
+- [How It Works](#how-it-works)
+- [Customization](#customization)
+  - [Training the Model](#training-the-model)
+  - [Adjusting Motor and Servo Speeds](#adjusting-motor-and-servo-speeds)
+- [Troubleshooting](#troubleshooting)
+- [Future Improvements](#future-improvements)
+- [License](#license)
+- [Contributing](#contributing)
+
 ## Overview
 This repository contains the code and documentation for a Garbage Collector Robot that uses **Raspberry Pi**, **TensorFlow** for real-time object detection, and **MicroPython** to control servos and motors. The robot is capable of detecting trash, picking it up using a robotic arm, and placing it into a bin autonomously.
 
