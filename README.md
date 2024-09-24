@@ -110,7 +110,7 @@ cd garbage-collector-robot
 
 ## File Structure
 ```
-garbage-collector-robot/
+Garbox/
 │
 ├── models/                         # TensorFlow Lite models for object detection
 │   └── trash_detection_model.tflite
