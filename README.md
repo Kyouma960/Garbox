@@ -112,16 +112,16 @@ cd garbage-collector-robot
 ```
 Garbox/
 │
-├── models/                         # TensorFlow Lite models for object detection
+├── models/                         
 │   └── trash_detection_model.tflite
 │
 ├── src/
-│   ├── detect_trash.py             # Script for detecting trash using camera and TensorFlow
-│   ├── control_robot.py            # Script for controlling robot movement and trash pickup
-│   └── utils.py                    # Utility functions for motor control, servo movement, etc.
+│   ├── detect_trash.py            
+│   ├── control_robot.py            
+│   └── utils.py
 │
-├── README.md                       # Documentation
-└── requirements.txt                # Python dependencies
+├── README.md                       
+└── requirements.txt               
 ```
 
 ## How It Works
